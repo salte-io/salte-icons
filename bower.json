@@ -1,0 +1,34 @@
+{
+  "name": "salte-icons",
+  "version": "0.1.0-beta.1",
+  "description": "A set of icons for use with iron-icon",
+  "authors": [
+    "Nick Woodward <nick@salte.io>"
+  ],
+  "keywords": [
+    "web-components",
+    "salte",
+    "icon"
+  ],
+  "main": "salte-icons.html",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/salte-io/salte-icons"
+  },
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/PolymerElements/paper-icons",
+  "dependencies": {
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.0",
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "paper-styles": "PolymerElements/paper-styles#^1.0.2",
+    "iron-component-page": "PolymerElements/iron-component-page#1.0.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
+    "iron-meta": "PolymerElements/iron-meta#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "web-component-tester": "^4.0.0"
+  }
+}
