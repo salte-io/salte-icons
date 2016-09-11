@@ -1,0 +1,11 @@
+language: node_js
+node_js: stable
+cache:
+  directories:
+  - bower_components
+before_script:
+- npm install -g bower polylint
+- bower prune
+- bower install
+script:
+- polylint
