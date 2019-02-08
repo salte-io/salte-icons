@@ -3,6 +3,9 @@ node_js: stable
 cache:
   directories:
   - bower_components
+branches:
+  only:
+    - master
 before_script:
 - npm install -g bower polylint
 - bower prune
