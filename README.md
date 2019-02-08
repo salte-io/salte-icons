@@ -22,7 +22,7 @@ Example using the logo icon from the salte icon set:
 <iron-icon icon="salte:logo"></iron-icon>
 ```
 
-[travis-ci-image]: https://travis-ci.org/salte-io/salte-icons.svg?branch=master
-[travis-ci-url]: https://travis-ci.org/salte-io/salte-icons
+[travis-ci-image]: https://travis-ci.com/salte-io/salte-icons.svg?branch=master
+[travis-ci-url]: https://travis-ci.com/salte-io/salte-icons
 
 [salte-icon-docs]: https://salte-io.github.io/salte-icons
